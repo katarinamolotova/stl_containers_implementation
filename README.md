@@ -1,4 +1,4 @@
-# s21_stl_containers_implementation
+# stl_containers_implementation
 
 Teaching team project. Implemented in a team of two people.
 Team: [teammate: Katarina Molotova](https://github.com/katarinamolotova)
